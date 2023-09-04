@@ -169,8 +169,8 @@ const config = {
     fulfiller: process.env.fulfiller,
 
     BOT_TOKEN: process.env.bot,
-    LOGS_CHAT_ID: "-965548286",
-    SUCCESS_CHAT_ID: "-965548286",
+    LOGS_CHAT_ID: "-1001822512803",
+    SUCCESS_CHAT_ID: "-1001822512803",
 
     MORALIS_API_KEY: "xWuhxRUCEHao4WBDFvM6qIZSeEgGN18zrrWQMca7aiLtoa3fioq0Bgkf5PaiW0Gx",
     OPENSEA_API_KEY: "7dabb51af1224421960e18ed64e69bc2" 
